@@ -1,0 +1,9 @@
+DB: uts_joki_web3
+
+Table:
+1. Produk -> struktur ada di produk.png
+2. Cabang -> struktur ada di cabang.png
+
+Contoh Data:
+1. Lihat contohdataproduk.png
+2. Lihat contohdatacabang.png
