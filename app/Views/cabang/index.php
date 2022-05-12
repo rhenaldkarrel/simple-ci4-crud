@@ -50,7 +50,7 @@
                     <?php endforeach; ?>
                 </tbody>
             </table>
-            <?= $pager->links('produk', 'produk_pagination'); ?>
+            <?= $pager->links('produk', 'pagination'); ?>
         </div>
     </div>
 </div>
